@@ -105,3 +105,10 @@ MIT License
 ```
 0xCDe1aCAea12fa876b0FB740C4F2662998124C13c
 ```
+
+## 💰 ETH收款
+
+**收款地址:**
+```
+0xCDe1aCAea12fa876b0FB740C4F2662998124C13c
+```
